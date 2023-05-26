@@ -16,8 +16,10 @@
 
 습도가 낮을 때
 
-![image](https://user-images.githubusercontent.com/126065290/236662911-db1c7d19-d020-4481-8898-9fdf939cce39.png)
+![습도가 낮을 때](https://github.com/seunghwankk/Arduino_project/assets/126065290/948c4fd6-ef37-4b8c-a4a1-b02c203a9e80)
+
 
 습도가 높을 때
 
-![image](https://user-images.githubusercontent.com/126065290/236662943-645c5198-9970-46df-9709-b9033c855582.png)
+![습도가 높을 떼](https://github.com/seunghwankk/Arduino_project/assets/126065290/ac11511f-a390-4596-b836-d1f86a381f00)
+
