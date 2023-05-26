@@ -21,7 +21,3 @@
 습도가 높을 때
 
 ![image](https://user-images.githubusercontent.com/126065290/236662943-645c5198-9970-46df-9709-b9033c855582.png)
-
-스위치 눌렀을 때(인터럽트)
-
-![image](https://user-images.githubusercontent.com/126065290/236662954-835ef9c2-ff35-4b8a-b7cb-519f7df72aab.png)
